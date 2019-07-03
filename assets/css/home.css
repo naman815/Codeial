@@ -1,0 +1,11 @@
+#container {
+  display: flex;
+  padding: 2px; }
+
+#post {
+  padding: 2px;
+  width: 65%; }
+
+#friends {
+  width: 30%;
+  padding: 2px; }
